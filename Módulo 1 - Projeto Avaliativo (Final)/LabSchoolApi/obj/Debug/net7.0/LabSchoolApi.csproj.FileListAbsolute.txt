@@ -1,0 +1,144 @@
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.csproj.AssemblyReference.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.AssemblyInfoInputs.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.AssemblyInfo.cs
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.csproj.CoreCompileInputs.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.MvcApplicationPartsAssemblyInfo.cs
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.MvcApplicationPartsAssemblyInfo.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/refint/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.pdb
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/appsettings.Development.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/appsettings.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.deps.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.runtimeconfig.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.pdb
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/AutoMapper.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/FluentValidation.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Humanizer.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/MySqlConnector.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/System.CodeDom.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.LabSchoolApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.build.LabSchoolApi.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.LabSchoolApi.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.LabSchoolApi.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/staticwebassets.pack.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/staticwebassets.build.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/staticwebassets.development.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/scopedcss/bundle/LabSchoolApi.styles.css
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.csproj.CopyComplete
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.genruntimeconfig.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/obj/Debug/net7.0/ref/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (cópia)/LabSchoolApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/appsettings.Development.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/appsettings.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.deps.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.runtimeconfig.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.pdb
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/AutoMapper.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/FluentValidation.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Humanizer.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/MySqlConnector.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/bin/Debug/net7.0/System.CodeDom.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.csproj.AssemblyReference.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.AssemblyInfoInputs.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.AssemblyInfo.cs
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.csproj.CoreCompileInputs.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.MvcApplicationPartsAssemblyInfo.cs
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.MvcApplicationPartsAssemblyInfo.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.LabSchoolApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.build.LabSchoolApi.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.LabSchoolApi.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.LabSchoolApi.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/staticwebassets.pack.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/staticwebassets.build.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/staticwebassets.development.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/scopedcss/bundle/LabSchoolApi.styles.css
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.csproj.CopyComplete
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/refint/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.pdb
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.genruntimeconfig.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo/LabSchoolApi/obj/Debug/net7.0/ref/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/appsettings.Development.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/appsettings.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.deps.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.runtimeconfig.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/LabSchoolApi.pdb
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/AutoMapper.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/FluentValidation.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Humanizer.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/MySqlConnector.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/bin/Debug/net7.0/System.CodeDom.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.csproj.AssemblyReference.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.AssemblyInfoInputs.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.AssemblyInfo.cs
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.csproj.CoreCompileInputs.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.MvcApplicationPartsAssemblyInfo.cs
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.MvcApplicationPartsAssemblyInfo.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.LabSchoolApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.build.LabSchoolApi.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.LabSchoolApi.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.LabSchoolApi.props
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/staticwebassets.pack.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/staticwebassets.build.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/staticwebassets.development.json
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/scopedcss/bundle/LabSchoolApi.styles.css
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.csproj.CopyComplete
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/refint/LabSchoolApi.dll
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.pdb
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/LabSchoolApi.genruntimeconfig.cache
+/home/feredragon/fullStack/Módulo 1 - Projeto Avaliativo (Final)/LabSchoolApi/obj/Debug/net7.0/ref/LabSchoolApi.dll
